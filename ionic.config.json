@@ -1,0 +1,8 @@
+{
+  "name": "IniciarIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "300817fc"
+}
